@@ -1,10 +1,10 @@
 ## Olá! eu sou o Matheus Dias, Estudande em Dev Back-End ! 🧑🏼‍💻
 
 <a href="https://github.com/DiasMath/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DiasMath&show_icons=true&theme=gruvbox" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DiasMath&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/DiasMath/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiasMath&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiasMath&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </a>
 
 <div style="display: inline_block"><br>
