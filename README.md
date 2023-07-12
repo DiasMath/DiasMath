@@ -1,4 +1,4 @@
-## Olá! eu sou o Matheus Dias, Estudande em Dev Back-End ! 🧑🏼‍💻
+## Olá! eu sou o Matheus Dias, Estudande em Dev Front/Back-End ! 🧑🏼‍💻
 
 <a href="https://github.com/DiasMath/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DiasMath&show_icons=true&theme=gruvbox" />
