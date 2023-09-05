@@ -1,4 +1,4 @@
-## Olá! eu sou o Matheus Dias, Estudande em Dev Back-End ! 🧑🏼‍💻
+## 📝 Olá! eu sou o Matheus Dias, Estudante em Dev Back-End ! 🧑🏼‍💻
 
 <a href="https://github.com/DiasMath/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DiasMath&show_icons=true&theme=gruvbox" />
@@ -33,6 +33,7 @@
 
   ##
 <div> 
-  <a href = "mailto:sandesdiasmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sandesdiasmatheus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dias-sandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5521996101868&text=Olá!%20Como%20posso%20ajudar?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
