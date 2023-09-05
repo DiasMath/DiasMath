@@ -7,10 +7,8 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiasMath&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </a>
 
-##
+## Minhas Tecnologias : 
 
-### Minhas Tecnologias : 
-     
 <div style="display: inline_block"><br>
   <img align="center" alt="DiasMath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DiasMath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,16 +20,14 @@
   <img align="center" alt="DiasMath-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-  ##
-
-  ### Atualmente Estudando : 
+  ## Atualmente Estudando :
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="DiasMath-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="DiasMath-DotNEt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
-  
 </div>
 
-  ##
+  ## Entre em Contato :
 <div> 
   <a href = "mailto:sandesdiasmatheus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dias-sandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
